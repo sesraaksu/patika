@@ -1,4 +1,4 @@
-package JAVA.Java101.KosulluIfadeler.Hipotenus;
+package JAVA.Java101.Degiskenler.Hipotenus;
 
 import java.util.Scanner;
 

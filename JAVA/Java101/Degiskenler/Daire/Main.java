@@ -1,4 +1,4 @@
-package JAVA.Java101.KosulluIfadeler.Daire;
+package JAVA.Java101.Degiskenler.Daire;
 
 import java.util.Scanner;
 

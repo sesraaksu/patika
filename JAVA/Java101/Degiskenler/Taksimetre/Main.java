@@ -1,4 +1,4 @@
-package JAVA.Java101.KosulluIfadeler.Taksimetre;
+package JAVA.Java101.Degiskenler.Taksimetre;
 
 import java.util.Scanner;
 

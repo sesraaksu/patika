@@ -1,4 +1,4 @@
-package JAVA.Java101.KosulluIfadeler.KDVHesaplama;
+package JAVA.Java101.Degiskenler.KDVHesaplama;
 
 import java.util.Scanner;
 

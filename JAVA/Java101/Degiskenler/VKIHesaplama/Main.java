@@ -1,4 +1,4 @@
-package JAVA.Java101.KosulluIfadeler.VKIHesaplama;
+package JAVA.Java101.Degiskenler.VKIHesaplama;
 
 import java.util.Scanner;
 

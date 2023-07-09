@@ -1,4 +1,4 @@
-package JAVA.Java101.KosulluIfadeler.NotOrt;
+package JAVA.Java101.Degiskenler.NotOrt;
 
 import java.util.Scanner;
 
