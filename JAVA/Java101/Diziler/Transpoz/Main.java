@@ -9,8 +9,8 @@ public class Main {
                 {10,11,12}};
 
         System.out.println("Matris : ");
-        for (int[] ints : matris) {
-            for (int anInt : ints) {
+        for (int[] ints : matris) {         //(int i = 0; i < matris.length; i++)
+            for (int anInt : ints) {        //(int j = 0; j < matris[i].length; j++)
                 System.out.print(anInt + " ");
             }
             System.out.println();
@@ -18,7 +18,7 @@ public class Main {
 
         System.out.println("Transpozunu : ");
         for (int i = 0; i < matris[0].length; i++){
-            for (int[] ints : matris) {
+            for (int[] ints : matris) {     //(int j = 0; j < matris.length; j++)
                 System.out.print(" " + ints[i] + " ");
             }
             System.out.println();
